@@ -1,6 +1,7 @@
 #EXTM3U list-name="Canales Latinos ðŸ˜" list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
 
 
+
 #EXTINF:-1 tvg-logo="https://envivo.hipodromolaplata.gba.gov.ar/res/drawable/logo.png" tvg-group="DEPORTES", Hipodromo de la plata
 https://g2.mc-slo.transport.edge-access.net/b16/xcds-7684-gfhd-bcns-473_456p.m3u8
 
