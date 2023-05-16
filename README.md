@@ -2,8 +2,8 @@
 
 #EXTINF:-1 tvg-logo="-" tvg-group="DEPORTES", juampy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/vtvpuy.json
-https://1246-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/foodnet.json
+https://dtvott-abc.akamaized.net/dash_live_1113/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
