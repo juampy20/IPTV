@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="-" tvg-group="DEPORTES", juampy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/foodnet.json
+#KODIPROP:inputstream.adaptive.license_key=https://gist.githubusercontent.com/juampy20/86dafd593a7f37d5a67ab15f6297ca44/raw/ec55a55223c30599639cdb0b96092abdb334e039/telefe.json
 https://dtvott-abc.akamaized.net/dash_live_1113/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
