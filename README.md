@@ -4,8 +4,10 @@
 #EXTINF:-1 tvg-logo="https://envivo.hipodromolaplata.gba.gov.ar/res/drawable/logo.png" tvg-group="DEPORTES", Hipodromo de la plata
 https://g2.mc-slo.transport.edge-access.net/b16/xcds-7684-gfhd-bcns-473_456p.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://lastunasong.org.ar/wp-content/uploads/2019/12/Logos_0000s_0005_Logo-Hipo%CC%81dromo-Arg-de-Palermo.jpg" tvg-group="DEPORTES", Hipodromo de Palermo
 https://ythls.onrender.com/channel/UCBQnpH3GKOKRGg4O8PpqQSw.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://hipodromosanisidro.com/wp-content/uploads/2019/05/logo_hsi_home_Mesa-de-trabajo-1.png" tvg-group="DEPORTES", Hipodromo de San Isidro
 https://ythls.onrender.com/channel/UC3M7efaO9uxT0LTl3BSKvGg.m3u8
