@@ -7,6 +7,11 @@ https://g2.mc-slo.transport.edge-access.net/b16/xcds-7684-gfhd-bcns-473_456p.m3u
 #EXTINF:-1 tvg-logo="httpsg" tvg-group="DEPORTES", Hipodromo de Palermo
 https://ythls.onrender.com/channel/UCBQnpH3GKOKRGg4O8PpqQSw.m3u8
 
+#EXTINF:-1 tvg-logo="httpsg" tvg-group="DEPORTES", Hipodromo de San Isidro
+https://ythls.onrender.com/channel/UC3M7efaO9uxT0LTl3BSKvGg.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/vtvpuy.json
