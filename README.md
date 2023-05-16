@@ -1,8 +1,7 @@
 #EXTM3U list-name="Canales Latinos ðŸ˜" list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
 
+#EXTINF:-1 tvg-logo="-" tvg-group="DEPORTES", juampy #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://gist.githubusercontent.com/juampy20/86dafd593a7f37d5a67ab15f6297ca44/raw/51b4b4fbe8d41e5b9997b7a89b76771085a41b9e/telefe.json https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37" #EXTINF:-1 tvg-logo="-" tvg-group="DEPORTES", JUAMPY #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://gist.githubusercontent.com/juampy20/86dafd593a7f37d5a67ab15f6297ca44/raw/51b4b4fbe8d41e5b9997b7a89b76771085a41b9e/telefe.json
-https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
