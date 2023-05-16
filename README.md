@@ -2,9 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/deportesful.png" tvg-group="DEPORTES", juampy
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://gist.githubusercontent.com/juampy20/86dafd593a7f37d5a67ab15f6297ca44/raw/ec55a55223c30599639cdb0b96092abdb334e039/telefe.json
-https://dtvott-abc.akamaized.net/dash_live_1115/manifest.mpd
+https://embed8.alandesk.life/cvatt.html?get=SVNBVA==
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
