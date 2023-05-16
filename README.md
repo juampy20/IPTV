@@ -1,7 +1,7 @@
 #EXTM3U list-name="Canales Latinos ðŸ˜" list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
 
 #EXTINF:-1 tvg-logo="-" tvg-group="DEPORTES", JUAMPY
-https://ddy1.salamus1.lol/ddy1/premium62/playlist.m3u8
+https://wiki.salamus1.lol/wiki/wiki67/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
