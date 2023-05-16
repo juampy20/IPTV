@@ -1,7 +1,11 @@
 #EXTM3U list-name="Canales Latinos ðŸ˜" list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
 
-#EXTINF:-1 tvg-logo="-" tvg-group="DEPORTES", JUAMPY
-https://webudit.salamus1.lol/lb/premium66/index.m3u8
+
+#EXTINF:-1 tvg-logo="juampy" tvg-group="DEPORTES", juampy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gist.githubusercontent.com/juampy20/55713cf47198ca6dd520612f7a0791ad/raw/d701a9bea51c5f39529901e5db55c23ae5c52612/gistfile1.txt
+https://edge-live15-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
