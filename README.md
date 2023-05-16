@@ -1,5 +1,6 @@
 #EXTM3U list-name="Canales Latinos ðŸ˜" list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
 
+
 #EXTINF:-1 tvg-logo="-" tvg-group="DEPORTES", juampy #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://gist.githubusercontent.com/juampy20/86dafd593a7f37d5a67ab15f6297ca44/raw/51b4b4fbe8d41e5b9997b7a89b76771085a41b9e/telefe.json https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 
 
