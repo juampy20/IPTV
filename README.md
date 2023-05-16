@@ -1,8 +1,11 @@
 #EXTM3U list-name="Canales Latinos ðŸ˜" list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
 
 
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/deportesful.png" tvg-group="DEPORTES", juampy
-https://embed8.alandesk.life/cvatt.html?get=SVNBVA==
+#EXTINF:-1 tvg-logo="https://envivo.hipodromolaplata.gba.gov.ar/res/drawable/logo.png" tvg-group="DEPORTES", Hipodromo de la plata
+https://g2.mc-slo.transport.edge-access.net/b16/xcds-7684-gfhd-bcns-473_456p.m3u8
+
+#EXTINF:-1 tvg-logo="httpsg" tvg-group="DEPORTES", Hipodromo de Palermo
+https://ythls.onrender.com/video/yz_8uP8c_zI.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
