@@ -1,10 +1,11 @@
 #EXTM3U list-name="Canales Latinos ðŸ˜" list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
 
 
-#EXTINF:-1 tvg-logo="juampy" tvg-group="DEPORTES", juampy
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://gist.githubusercontent.com/juampy20/55713cf47198ca6dd520612f7a0791ad/raw/d701a9bea51c5f39529901e5db55c23ae5c52612/gistfile1.txt
-https://edge-live15-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37" #EXTINF:-1 tvg-logo="https://i.ibb.co/gZNVks2/dtvec.png" tvg-group="DEPORTES", DIRECTV SPORTS EC #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key={
+        keyId = "d83e2e0cb9735bea9fc9f0b90cea1e14";
+        key = "4125e40800a08bbc66cf27756a5ab283";
+}
+https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
