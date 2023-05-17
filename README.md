@@ -38,7 +38,8 @@ https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.bonuseggrafis.com/wp-content/uploads/pamestoixima-bonus-prosfores-100x100.jpg" tvg-group="TURF", Estoixima
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie_1000.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXUErJRE_PsIHt5l9CrC-JsGdnym8d0qL7QLKF2fJxIOd1Lsz01eRXYBQvPvOv-0SUvXo&usqp=CAU" tvg-group="TURF", Digital Vision V63
+https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
 
 
 
