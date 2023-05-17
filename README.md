@@ -41,6 +41,12 @@ https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie_1000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXUErJRE_PsIHt5l9CrC-JsGdnym8d0qL7QLKF2fJxIOd1Lsz01eRXYBQvPvOv-0SUvXo&usqp=CAU" tvg-group="TURF", Digital Vision V63
 https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvOerYsK4vfo8iTKbccSAYpwTgAemmvD8WJ-34YPH8W2tUJmUDEoU1M0tYt8iK4ZJOkA&usqp=CAU" tvg-group="TURF", Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
