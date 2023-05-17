@@ -32,6 +32,10 @@ https://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvturf.cl/tvturf/site/artic/20190212/imag/foto_0000001220190212194325/TVTURFRESUMEN.png" tvg-group="TURF", TURF Movil
 https://janus.tvturf.cl/playlist/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/equidia_pro1.png" tvg-group="TURF", Equidia Pro
+https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
+
+
 
 
 
