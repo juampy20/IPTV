@@ -1,4 +1,4 @@
-#EXTM3U list-name="Canales Latinos ðŸ˜" list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
+#EXTM3U list-name="Canales Latinos ðŸ˜" list-image="https://i.blogs.es/51c546/canales/450_1000.jpg"
 
 
 
