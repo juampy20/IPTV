@@ -26,7 +26,7 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKDQVFPgzUqyNWGrX8vJXofUfsls6rl-t0eL1yojl-Z0_tmr0hOdoICpukG8PnArh6Po&usqp=CAU" tvg-group="TURF", RACING CH
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index418.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNddby4jEgu238fW53HvOeaqYYLVBwgc-SrmqaYm1EMQEzL90fyEHPUQOrg0jKOhnxw&usqp=CAU" tvg-group="TURF", Monterrico Tv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Monterrico_TV_%282006_-%29.jpg/revision/latest/scale-to-width-down/200?cb=20210404162646&path-prefix=es" tvg-group="TURF", Monterrico Tv
 https://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvturf.cl/tvturf/site/artic/20190212/imag/foto_0000001220190212194325/TVTURFRESUMEN.png" tvg-group="TURF", TURF Movil
