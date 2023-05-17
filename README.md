@@ -26,6 +26,11 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Racing-com2015.png/revision/latest?cb=20151003130104" tvg-group="TURF", RACING CH
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index418.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNddby4jEgu238fW53HvOeaqYYLVBwgc-SrmqaYm1EMQEzL90fyEHPUQOrg0jKOhnxw&usqp=CAU" tvg-group="TURF", Monterrico Tv
+https://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
