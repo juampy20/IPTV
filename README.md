@@ -29,6 +29,11 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index418.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNddby4jEgu238fW53HvOeaqYYLVBwgc-SrmqaYm1EMQEzL90fyEHPUQOrg0jKOhnxw&usqp=CAU" tvg-group="TURF", Monterrico Tv
 https://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvturf.cl/tvturf/site/artic/20190212/imag/foto_0000001220190212194325/TVTURFRESUMEN.png" tvg-group="TURF", TURF Movil
+https://janus.tvturf.cl/playlist/stream.m3u8
+
+
+
 
 
 
