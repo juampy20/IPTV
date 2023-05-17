@@ -20,7 +20,8 @@ https://ythls.onrender.com/channel/UCTgORvzgyWjxLUHhWQgALdg.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Logoteletrak2008.png/revision/latest?cb=20190903233759&path-prefix=es" tvg-group="TURF", Teletrak TV
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qbFB4wRV1nM/T2IihB2xyaI/AAAAAAAAEkE/m4aUePUabxw/s1600/ATG+logo+2012.jpg" tvg-group="TURF", ATG Live
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
 
 
