@@ -48,7 +48,8 @@ https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvOerYsK4vfo8iTKbccSAYpwTgAemmvD8WJ-34YPH8W2tUJmUDEoU1M0tYt8iK4ZJOkA&usqp=CAU" tvg-group="TURF", Dubai Racing 2
 https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QqYpq-DvlHo/UEzix56yKYI/AAAAAAAALSo/YsslHO68Coc/s1600/hipodromos-palermo-san-isidro-la-plata-logos.jpg" tvg-group="TURF", EL PINGO Transmisiones
+https://ythls.onrender.com/channel/7GE5x6WLZrJLU2rU1ihSxA.m3u8
 
 
 
