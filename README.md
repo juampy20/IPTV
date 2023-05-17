@@ -13,6 +13,8 @@ https://ythls.onrender.com/channel/UCBQnpH3GKOKRGg4O8PpqQSw.m3u8
 #EXTINF:-1 tvg-logo="https://hipodromosanisidro.com/wp-content/uploads/2019/05/logo_hsi_home_Mesa-de-trabajo-1.png" tvg-group="TURF", Hipodromo de San Isidro
 https://ythls.onrender.com/channel/UC3M7efaO9uxT0LTl3BSKvGg.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image28795632813.jpg" tvg-group="TURF", Hipica TV
+https://ythls.onrender.com/channel/UCTgORvzgyWjxLUHhWQgALdg.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
