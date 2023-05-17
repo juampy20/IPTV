@@ -51,7 +51,8 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QqYpq-DvlHo/UEzix56yKYI/AAAAAAAALSo/YsslHO68Coc/s1600/hipodromos-palermo-san-isidro-la-plata-logos.jpg" tvg-group="TURF", EL PINGO Transmisiones
 https://ythls.onrender.com/channel/UCJeWGui4-cGKZ2TW9PpTFaw.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QqYpq-DvlHo/UEzix56yKYI/AAAAAAAALSo/YsslHO68Coc/s1600/hipodromos-palermo-san-isidro-la-plata-logos.jpg" tvg-group="TURF", Turfpremium
+https://ythls.onrender.com/channel/UCQri-Fx58rGoxFTUfCAXfYw.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
