@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://envivo.hipodromolaplata.gba.gov.ar/res/drawable/logo.png" tvg-group="TURF", Hipodromo de la plata
+#EXTINF:-1 tvg-logo="https://devaluado.com/wp-content/uploads/2021/10/ar_turf-en-vivo-hipodromo-de-la-plata_p_m.jpg" tvg-group="TURF", Hipodromo de la plata
 https://g2.mc-slo.transport.edge-access.net/b16/xcds-7684-gfhd-bcns-473_456p.m3u8
 
 
