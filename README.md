@@ -23,7 +23,7 @@ https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qbFB4wRV1nM/T2IihB2xyaI/AAAAAAAAEkE/m4aUePUabxw/s1600/ATG+logo+2012.jpg" tvg-group="TURF", ATG Live
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Racing-com2015.png/revision/latest?cb=20151003130104" tvg-group="TURF", RACING CH
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKDQVFPgzUqyNWGrX8vJXofUfsls6rl-t0eL1yojl-Z0_tmr0hOdoICpukG8PnArh6Po&usqp=CAU" tvg-group="TURF", RACING CH
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index418.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNddby4jEgu238fW53HvOeaqYYLVBwgc-SrmqaYm1EMQEzL90fyEHPUQOrg0jKOhnxw&usqp=CAU" tvg-group="TURF", Monterrico Tv
