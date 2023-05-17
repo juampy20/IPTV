@@ -35,7 +35,7 @@ https://janus.tvturf.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/equidia_pro1.png" tvg-group="TURF", Equidia Pro
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://virtuals.pamestoixima.gr/static/img/logo.png" tvg-group="TURF", Estoixima
+#EXTINF:-1 tvg-logo="https://www.bonuseggrafis.com/wp-content/uploads/pamestoixima-bonus-prosfores-100x100.jpg" tvg-group="TURF", Estoixima
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie_1000.m3u8
 
 
