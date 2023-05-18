@@ -117,6 +117,7 @@ https://ythls.onrender.com/channel/UCQla7pKe2GX2vp0oMrRbtSw.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/vtvpuy.json
