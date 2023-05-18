@@ -2,7 +2,6 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="-", TN JUAMPY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://gist.githubusercontent.com/juampy20/bd3d49d3c773e2119e5bcd0220e8d5ec/raw/f469638f41abf2af73de00cb3922b32ad4756c19/gistfile1.jon
 https://csc-ptn-edge01.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
 
 #EXTINF:-1 tvg-logo="https://devaluado.com/wp-content/uploads/2021/10/ar_turf-en-vivo-hipodromo-de-la-plata_p_m.jpg" tvg-group="TURF", Hipodromo de la plata
