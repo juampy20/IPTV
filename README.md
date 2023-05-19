@@ -4,7 +4,7 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=cfc6585b-d311-dc5f-8815-db12270122b6&userToken=https://drm.ors.at/acquire-license/widevine?BrandGuid=cfc6585b-d311-dc5f-8815-db12270122b6&userToken=<token>
+#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=edef8ba9-79d6-4ace-a3c8-27dcd51d21ed&userToken=https://drm.ors.at/acquire-license/widevine?BrandGuid=edef8ba9-79d6-4ace-a3c8-27dcd51d21ed&userToken=<token>
 https://edge-live11-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
   
   
