@@ -1,8 +1,13 @@
 #EXTM3U list-name="Canales Latinos ðŸ˜" list-image="https://i.blogs.es/51c546/canales/450_1000.jpg"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="-", TN JUAMPY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://csc-ptn-edge01.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=<token>
+https://edge-live11-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+  
+  
 
 #EXTINF:-1 tvg-logo="https://devaluado.com/wp-content/uploads/2021/10/ar_turf-en-vivo-hipodromo-de-la-plata_p_m.jpg" tvg-group="TURF", Hipodromo de la plata
 https://g2.mc-slo.transport.edge-access.net/b16/xcds-7684-gfhd-bcns-473_456p.m3u8
