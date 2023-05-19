@@ -1,6 +1,6 @@
 #EXTM3U list-name="Canales Latinos ðŸ˜" list-image="https://i.blogs.es/51c546/canales/450_1000.jpg"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="-", TN JUAMPY
+#EXTINF:-1 tvg-logo="-" tvg-group="-", Test JUAMPY
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
